@@ -1,0 +1,28 @@
+# standard jekyll configuration
+
+permalink: pretty
+exclude: ['Rakefile', 'README.md', 'config.rb']
+markdown: kramdown # rdiscount
+auto: true
+#lsi: true
+
+# configuration required for some pages
+
+domain: blog.example.com
+title: A checklist for personal data safety
+author: Scott Weinstein
+email: scottwww@squidnet.com
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+github:
+   username: ScottWeinstein
+
+# disqus:
+#   id: disqusid
