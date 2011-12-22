@@ -1,10 +1,12 @@
 # standard jekyll configuration
 
+safe: true
 permalink: pretty
 exclude: ['Rakefile', 'README.md', 'config.rb']
-markdown: kramdown # rdiscount
+markdown: rdiscount 
 auto: true
 #lsi: true
+pygments: true
 
 # configuration required for some pages
 
