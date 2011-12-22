@@ -7,7 +7,7 @@ markdown: rdiscount
 auto: true
 #lsi: true
 pygments: true
-baseurl: /ComputerSafety/
+baseurl: /ComputerSafety
 
 # configuration required for some pages
 
