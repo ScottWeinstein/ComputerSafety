@@ -6,7 +6,7 @@
     <meta name="description" content="{{ page.description }}" />
     {% endif %}
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" media="screen" href="/stylesheets/screen.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="stylesheets/screen.css" type="text/css" />
     {% if site.feedburner %}
     <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
     {% endif %}
@@ -23,20 +23,13 @@
       })();
     </script>
     {% endif %}
-
   </head>
   <body>
-
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
 
 
 <div class="site">
   <div class="title">
-    <a href="/">{{site.title}}</a>
+    <a href="{{site.baseurl}}">{{site.title}}</a>
   </div>
   
   {{ content }}
@@ -44,34 +37,14 @@ var WRInitTime=(new Date()).getTime();
   <div class="footer">
     <div class="contact">
       <p>
-        Scott Weinstein<br />
-        scottwww@squidnet.com
-      </p>
-    </div>
-    <div class="contact">
-      <p>
         <a href="http://github.com/{{ site.github.username }}/">github.com/{{ site.github.username }}</a><br />
         <a href="http://twitter.com/{{ site.github.username }}/">twitter.com/{{ site.github.username }}</a><br />
-        
       </p>
     </div>
-
 
 
   {% if site.github %}
     <a href="http://github.com/{{ site.github.username }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>
   {% endif %}
-
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-if(document.location.protocol!='https:')
-  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(206,0.3,"www03");
-</script>
-<!-- ClickTale end of Bottom part -->
-
   </body>
 </html>

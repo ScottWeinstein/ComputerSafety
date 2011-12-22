@@ -11,7 +11,7 @@ baseurl: /ComputerSafety/
 
 # configuration required for some pages
 
-domain: blog.example.com
+domain: http://scottweinstein.github.com
 title: A checklist for personal data safety
 author: Scott Weinstein
 email: scottwww@squidnet.com
