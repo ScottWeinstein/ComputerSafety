@@ -33,6 +33,8 @@ they are impossible for people to guess, and only rain-man types could even thin
 I use [KeePass](http://keepass.info/index.html) - it's free, popular, and been around for a while. (here are some other [desktop](http://lifehacker.com/5529133/five-best-password-managers) and [web](http://www.passpack.com/en/professional-password-manager/) based managers)
 
 * Install the software and choose a good passphrase (mine is a 5 word phase of about 40 chars) to protect the KeePass database that is created.
+  * A good passphrase could be a sentence (with spaces) and substitute some letters for special characters or the first letters of the words of a long sentence.
+  * At minimum it should be over 25 characters and contain upper and lower case, numbers and non-alphanumeric characters.
 * Optional - I keep my KeePass password database on [Dropbox](http://db.tt/PnMCV7X), so that it's kept in sync between my work laptop and my home PC, but to make this secure. [for even more security I also use a **key file** in adition to a passphrase 
 The **key file** I copy (just once) via USB thumb drive to the two computers]
 
