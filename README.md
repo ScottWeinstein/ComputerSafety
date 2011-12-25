@@ -1,3 +1,3 @@
-A [Computer Safety](http://scottweinstein.github.com/ComputerSafety/) guide for friends and family.
+A [Computer Safety](http://computersafety.squidnet.com) guide for friends and family.
 
-http://scottweinstein.github.com/ComputerSafety/
+http://computersafety.squidnet.com
