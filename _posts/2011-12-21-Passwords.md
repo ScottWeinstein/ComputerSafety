@@ -15,7 +15,7 @@ The list of important accounts should be short
 * brokerage
 * possibly facebook (as facebook is being used as sign-in portal for many other sites)
 
-###### Key message
+###### 
 Passwords for **important** sites must be both strong and unique to each site. Passwords for **unimportant** sites can be relativly weak.
 
 

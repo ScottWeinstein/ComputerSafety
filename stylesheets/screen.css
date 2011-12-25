@@ -1,24 +1,11 @@
-
-#post h6 {
-  font-size: 18px;
-  background-color: grey;
-  border-radius: 2px;
-  margin: 0px 10px 0px 0px;
-  padding: 0;
+#post {
+  width: 80%;
 }
-
-#post h6 + p {
-  background-color: grey;
-  margin: 0;
-  padding: 0;
-}
-
-
-  .site .meta {
+.site .meta {
     color: #aaa;
   }
 
-  .site .footer {
+.site .footer {
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
@@ -26,24 +13,24 @@
     overflow: hidden;
   }
 
-    .site .footer .contact {
-      float: left;
-      margin-right: 3em;
-    }
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
 
-      .site .footer .contact a {
-        color: #8085C1;
-      }
+  .site .footer .contact a {
+    color: #8085C1;
+  }
 
-    .site .footer .rss {
-      margin-top: 1.1em;
-      margin-right: -.2em;
-      float: right;
-    }
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
 
-      .site .footer .rss img {
-        border: 0;
-      }
+  .site .footer .rss img {
+    border: 0;
+  }
 
 
   /* terminal */
@@ -66,8 +53,9 @@
     margin-bottom: 1em;
   }
   
-  
-  html { font-size: 62.5%; }
+
+/*  Markdown */  
+html { font-size: 62.5%; }
 html, body { height: 100%; }
 
 body {
@@ -75,7 +63,6 @@ body {
   font-size: 150%;
   line-height: 1.3;
   color: #f6e6cc;
-  width: 700px;
   margin: auto;
   background: #27221a;
   position: relative;
@@ -143,4 +130,34 @@ pre code {
 .thumb { 
     float:left;
     margin: 10px;
+}
+
+
+
+
+.adwords {
+  /*background: white;*/
+  float: right;
+  margin: 10px;
+}
+
+#post h6 {
+  font-size: 18px;
+  background-color: grey;
+  border-radius: 0.4em;
+  -moz-border-radius: 0.4em;
+  -webkit-border-radius: 0.4em;
+  margin: 0px 10px 0px 0px;
+  padding: 0;
+}
+
+#post h6 + p {
+  background-color: white;
+  color: black;
+  margin: 20px;
+  padding: 10px;
+  width: 80%;
+  border-radius: 0.4em;
+  -moz-border-radius: 0.4em;
+  -webkit-border-radius: 0.4em;
 }
