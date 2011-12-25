@@ -23,5 +23,5 @@ google_analytics:
 github:
    username: ScottWeinstein
 
-# disqus:
-#   id: disqusid
+disqus:
+   id: computersafety
