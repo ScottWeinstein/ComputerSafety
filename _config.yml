@@ -14,11 +14,11 @@ email: scottwww@squidnet.com
 
 # configuration for ehancements, uncomment to enable
 
-# feedburner:
-#   id: feedburnerid
+feedburner:
+   id: AChecklistForPersonalDataSafety
 
-# google_analytics:
-#   account: UA-XXXXX-X
+google_analytics:
+   account: UA-27918472-1
 
 github:
    username: ScottWeinstein
