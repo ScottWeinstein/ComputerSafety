@@ -3,7 +3,7 @@
 permalink: pretty
 markdown: rdiscount 
 auto: true
-baseurl: /ComputerSafety
+baseurl: 
 
 # configuration required for some pages
 
