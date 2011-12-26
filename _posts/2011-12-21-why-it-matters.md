@@ -6,18 +6,23 @@ last_updated: 2011-12-21
 ---
 
 ## Annual review
-A review of your personal computer data safety (security) is needed on a periodic basis. Increasingly important aspects of our lives are migrating or have fully migrated to our computers and shared serices on the web. 
+Like your finances and health, a periodic review of your personal computer data safety (security) habits is adviced. Increasingly important aspects of our lives are migrating or have fully migrated to our computers and shared serices on the web. 
 
 ####How bad would the following situations be for you:
 
 * your personal email was being read by bad actors to steal your identity
 * your on-line bank or brokerage password was cracked
-* you lost your laptop - with the latest draft of <import work>
+* you lost your laptop - with the latest (or only) draft of your critical work
 * you had a home fire or bugerlery and your PC, with years of photos and music was stolen or destroyed?
 
-Today, we know that accounts get hacked, hard drives fail, and the impact can be catastrophic.
+Today, we know that accounts get hacked, hard drives fail, and the impact can be catastrophic. Some recent examples which have made the news
+
+* [Hacked!](http://www.theatlantic.com/magazine/archive/2011/11/hacked/8673/) 
+* [Compromised Commenting Accounts on Gawker Media](http://lifehacker.com/5712785/)
+* [Stratfor Hacked, 200GB Of Emails, Credit Cards Stolen](http://www.zerohedge.com/news/stratfor-hacked-200gb-emails-credit-cards-stolen-client-list-released-includes-mf-global-rockef)
 
 ## What you need to do
+1. Enable automatic updates on your computer
 1. Have **secure passwords** for import sites
 1. Enable **Two factor authentication** for your primary email
 1. Have a backup plan

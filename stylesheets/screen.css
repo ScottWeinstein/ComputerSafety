@@ -182,6 +182,9 @@ pre {
   pre code {
     font-size: 10pt; }
 
+code {
+  background: grey; }
+
 .thumb {
   float: left;
   margin: 10px; }
