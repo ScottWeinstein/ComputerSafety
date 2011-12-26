@@ -6,7 +6,7 @@ last_updated: 2011-12-21
 ---
 
 ## Annual review
-Like your finances and health, a periodic review of your personal computer data safety (security) habits is adviced. Increasingly important aspects of our lives are migrating or have fully migrated to our computers and shared serices on the web. 
+Like your finances and health, a periodic review of your personal computer data safety (security) habits is advised. Increasingly important aspects of our lives are migrating or have fully migrated to our computers and shared serices on the web. 
 
 ####How bad would the following situations be for you:
 
