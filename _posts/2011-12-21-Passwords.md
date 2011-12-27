@@ -13,7 +13,7 @@ The list of important accounts should be short
 * your email
 * your bank
 * brokerage
-* possibly facebook (as facebook is being used as sign-in portal for many other sites)
+* possibly facebook (as facebook is being used as a sign-in portal for many other sites)
 
 ###### 
 Passwords for **important** sites must be both strong and unique to each site. Passwords for **unimportant** sites can be relativly weak.
