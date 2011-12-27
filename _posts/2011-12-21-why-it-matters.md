@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postNoRelated
 title: A checklist for personal data safety - why it matters
 tags: [DataSafety Security]
 last_updated: 2011-12-21
@@ -23,6 +23,8 @@ Today, we know that accounts get hacked, hard drives fail, and the impact can be
 
 ## What you need to do
 1. Enable automatic updates on your computer
-1. Have **secure passwords** for import sites
-1. Enable **Two factor authentication** for your primary email
-1. Have a backup plan
+1. [Have **secure passwords** for import sites](/2011/12/21/Passwords/)
+1. [Enable **Two factor authentication** for your primary email](/2011/12/21/Email/)
+1. [Have backups of your data](/2011/12/21/Backups/)
+
+
