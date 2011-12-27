@@ -43,8 +43,8 @@ I use [KeePass](http://keepass.info/index.html) - it's free, popular, and been a
 
 ## Typical process using KeePass
 1. Open KeePass (enter your passphrase to access the KeePass database)
-1. Copy the appropriate long, complex, KeePass-generated password and
-1. Paste it into the important site login field. ().
+1. Copy the appropriate long, complex, KeePass-generated password
+1. Paste it into the site's password field
 
 
 #### Optional
