@@ -40,6 +40,7 @@ I use [KeePass](http://keepass.info/index.html) - it's free, popular, and been a
 * Before continuing, familiarize yourself with the use KeePass. This is **key**, because if you lose any of the password database, the keyfile, or forget your passphrase you are well fucked.
 * Allow KeePass to generate unique and long passwords for each one of your **important** site accounts.
 * You never have to remember all those passwords ever again - just the one KeePass passphrase.
+* KeePass is also available on your mobile device and (at least tested on Android by Jordan, works wonderfully well)
 
 ## Typical process using KeePass
 1. Open KeePass (enter your passphrase to access the KeePass database).
