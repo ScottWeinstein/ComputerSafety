@@ -13,7 +13,7 @@ Like your finances and health, a periodic review of your personal computer data 
 * your personal email was being read by bad actors to steal your identity
 * your on-line bank or brokerage password was cracked
 * you lost your laptop - with the latest (or only) draft of your critical work
-* you had a home fire or bugerlery and your PC, with years of photos and music was stolen or destroyed?
+* you had a home fire or burglary and your PC, with years of photos and music was stolen or destroyed?
 
 Today, we know that accounts get hacked, hard drives fail, and the impact can be catastrophic. Some recent examples which have made the news
 
@@ -23,6 +23,9 @@ Today, we know that accounts get hacked, hard drives fail, and the impact can be
 
 ## What you need to do
 1. Enable automatic updates on your computer
+  1. [On a Mac OSX](http://support.apple.com/kb/ht1338) - yes Mac's get viruses too
+  1. [On a PC](http://windows.microsoft.com/en-US/windows/help/windows-update)
+  1. Update installed software as well, especially Adobe products (those are typically the most hacked of all)
 1. [Have **secure passwords** for import sites](/2011/12/21/Passwords/)
 1. [Enable **Two factor authentication** for your primary email](/2011/12/21/Email/)
 1. [Have backups of your data](/2011/12/21/Backups/)
