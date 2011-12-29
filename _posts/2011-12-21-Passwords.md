@@ -16,15 +16,15 @@ The list of important accounts should be short
 * possibly facebook (as facebook is being used as a sign-in portal for many other sites)
 
 ###### 
-Passwords for **important** sites must be both strong and unique to each site. Passwords for **unimportant** sites can be relativly weak.
+Passwords for **important** sites must be both strong and unique to each site. Passwords for **unimportant** sites can be relatively weak.
 
 
 ## Examples
-Passwords such as `f!rstBorn432` are not very secure and can be cracked relativly quickly.
+Passwords such as `f!rstBorn432` are not very secure and can be cracked relatively quickly.
 
 
 On the other hand, passwords such as `aae34437edf138d7708fef0b7616e4230dc712ff0ff4af6d9ccac377c3cdf3d7` are quite secure - not only are they hard for computers to crack, 
-they are impossible for people to guess, and only rain-man types could even think of memorizing it. Don't worry, you will never have to _memorize_ or _type_ this kind of password if you follow the steps below.
+they are impossible for people to guess, and only rain-man types could even think of memorizing them. Don't worry, you will never have to _memorize_ or _type_ this kind of password if you follow the steps below.
 
 
 ## Call to action
@@ -49,4 +49,4 @@ I use [KeePass](http://keepass.info/index.html) - it's free, popular, and been a
 Alternatively KeePass also has 3rd-party plugins which allow more seamless integration of KeePass and your web browser of choice.
 
 #### Optional
-I keep my KeePass password database on [Dropbox](http://db.tt/PnMCV7X), so that it's kept in sync between my work laptop and my home PC. But to make this secure I also use a **key file** in adition to a passphrase. This additional security feature means that to open the KeyPass database, both my master passphrase, **and** the keyfile must be used. To transfter the key file I copy (just once) via USB thumb drive to the two computers (using DropBox or email could render the additional security of the keyfile moot)
+I keep my KeePass database on [Dropbox](http://db.tt/PnMCV7X), so that it's kept in sync between my work laptop and my home PC. But to make this secure I also use a **key file** in addition to a passphrase. This additional security feature means that to open the KeyPass database, both my master passphrase, **and** the keyfile must be used. To transfer the key file I copy (just once) via USB thumb drive to the two computers (using DropBox or email could render the additional security of the keyfile moot)
