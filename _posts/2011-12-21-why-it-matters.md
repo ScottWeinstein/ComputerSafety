@@ -23,9 +23,9 @@ Today, we know that accounts get hacked, hard drives fail, and the impact can be
 
 ## What you need to do
 1. Enable automatic updates on your computer
-  * [On a Mac OSX](http://support.apple.com/kb/ht1338) - yes Mac's get viruses too
-  * [On a PC](http://windows.microsoft.com/en-US/windows/help/windows-update)
-  * Update installed software as well, especially Adobe products (those are typically the most hacked of all)
+    2. [On a Mac OSX](http://support.apple.com/kb/ht1338) - yes Mac's get viruses too
+    2. [On a PC](http://windows.microsoft.com/en-US/windows/help/windows-update)
+    2. Update installed software as well, especially Adobe products (those are typically the most hacked of all)
 1. [Have **secure passwords** for import sites](/2011/12/21/Passwords/)
 1. [Enable **Two factor authentication** for your primary email](/2011/12/21/Email/)
 1. [Have backups of your data](/2011/12/21/Backups/)
