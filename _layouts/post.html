@@ -15,9 +15,10 @@ layout: default
   </ul>
 </div>
 
-<div>
-{% if page.date %}<div class="postdate">Posted on {{ page.date | date_to_string }}{% if page.last_updated %}, last updated on {{ page.last_updated | date_to_string }}{% endif %}</div>{% endif %}
+{% if page.date %}
+<div class="postdate">Posted on {{ page.date | date_to_string }}{% if page.last_updated %}, last updated on {{ page.last_updated | date_to_string }}{% endif %}
 </div>
+{% endif %}
 
 {% if site.disqus %}
 <div id="comments">

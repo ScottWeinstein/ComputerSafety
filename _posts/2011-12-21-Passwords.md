@@ -5,7 +5,7 @@ tags: [DataSafety Security]
 last_updated: 2011-12-21
 ---
 
-### Passwords
+## Passwords
 Everyone hates them, but for moment, they're what we use to keep our data secure. It's not uncommon to need passwords for well over 20 different sites and accounts. The first step towards good password management is to categorize the sites you use into two categories: **important** and **unimportant**.
 
 The list of important accounts should be short

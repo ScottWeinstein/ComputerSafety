@@ -1,19 +1,27 @@
 #post {
   width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-botton: 30px;
+  margin-top: 30px;
+}
+
+
+.postdate {
+	font-size: 8px;
+	float: right;
 }
 
 .site {
 	.meta {
     	color: #aaa;
   	}
-  	
   	.title {
   		background: orange;
   		border: 1px;
   		font-size: 20px;
   		padding-left: 40px;
   	}
-
 	.footer {
 	    font-size: 80%;
 	    color: #666;
