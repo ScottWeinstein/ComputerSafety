@@ -2,7 +2,7 @@
 layout: postNoRelated
 title: A checklist for personal data safety - why it matters
 tags: [DataSafety Security]
-last_updated: 2011-12-21
+last_updated: 9999-12-21
 ---
 
 ## Annual review
@@ -30,3 +30,4 @@ Today, we know that accounts get hacked, hard drives fail, and the impact can be
 1. [Have **secure passwords** for import sites](/2011/12/21/Passwords/)
 1. [Enable **Two factor authentication** for your primary email](/2011/12/21/Email/)
 1. [Have backups of your data](/2011/12/21/Backups/)
+1. [Setup remote wipe for your phone](/2012/01/02/Smartphone/)
