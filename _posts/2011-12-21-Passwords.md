@@ -20,15 +20,16 @@ Passwords for **important** sites must be both strong and unique to each site. P
 
 
 ## Examples
-Passwords such as `f!rstBorn432` are not very secure and can be cracked relatively quickly.
-
+Passwords such as `f!rstBorn432` are not very secure and can be cracked relatively quickly. 
 
 On the other hand, passwords such as `aae34437edf138d7708fef0b7616e4230dc712ff0ff4af6d9ccac377c3cdf3d7` are quite secure - not only are they hard for computers to crack, 
 they are impossible for people to guess, and only rain-man types could even think of memorizing them. Don't worry, you will never have to _memorize_ or _type_ this kind of password if you follow the steps below.
 
+![xkcd](http://imgs.xkcd.com/comics/password_strength.png)
+
 
 ## Call to action
-1. Use a password manager to store your important passwords.
+1. Use a password manager or use longer passphrases to store your important passwords.
 1. Create secure passwords and change the passwords on your important accounts.
 
 ### Password manager
